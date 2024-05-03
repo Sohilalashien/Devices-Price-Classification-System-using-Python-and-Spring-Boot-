@@ -24,16 +24,16 @@ GET /api/devices: Retrieve a list of all devices.
 GET /api/devices/{id}: Retrieve details of a specific device by ID.
 POST /api/devices: Add a new device.
 POST /api/predict/{deviceId}: Predict the price for a device and save the result.
-Setup
+# Setup
 Configure the application properties to connect to a database.
-Testing
+# Testing
 Perform predictions for 10 devices from the test dataset.
-Documentation
+ # Documentation
 Provide clear documentation on running the application and interacting with the API.
-Future Enhancements
+# Future Enhancements
 Include more sophisticated machine learning algorithms for better price classification.
 Implement user authentication and authorization for API access.
-Technologies Used
+# Technologies Used
 Python
 Spring Boot
 MySQL 
