@@ -4,8 +4,8 @@ This project aims to classify device prices based on their specifications using 
 Python Project
 # Dataset
 The dataset contains specifications of various devices, such as battery power, Bluetooth availability, camera megapixels, etc.
-Training Dataset: https://docs.google.com/spreadsheets/d/1C5K210JMYklz-_naYRaoxXPF6nZIGbXYrn0o0rBeY9I/edit#gid=1607079722
-Test Dataset: https://docs.google.com/spreadsheets/d/1ChyuXQFc7ivtDxdEnbII2lRT3xc6OaMSZp_ud7arf9U/edit#gid=2082460844
+ # Training Dataset: https://docs.google.com/spreadsheets/d/1C5K210JMYklz-_naYRaoxXPF6nZIGbXYrn0o0rBeY9I/edit#gid=1607079722
+# Test Dataset: https://docs.google.com/spreadsheets/d/1ChyuXQFc7ivtDxdEnbII2lRT3xc6OaMSZp_ud7arf9U/edit#gid=2082460844
 # Modeling Steps
 Data Preparation:
 Clean and preprocess the dataset.
